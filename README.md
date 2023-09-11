@@ -22,7 +22,7 @@ A repository for Module 5 Challenge Day Planner
 - THEN the saved events persist
 
 ## Deployed Link
-
+https://bestedt.github.io/bestedt-DayPlanner/
 
 ## Screen Shots
 ![Screenshot 2023-09-11 084352](https://github.com/bestedt/bestedt-DayPlanner/assets/139821441/fbded36d-ff34-4d82-816e-630e4f4bb334)
